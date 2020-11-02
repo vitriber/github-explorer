@@ -1,44 +1,82 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Github Explorer" title="#GithubExplorer" src=".github/logo.png" width="250px" />
+</h1>
 
-## Available Scripts
+<h4 align="center">
+	🕵🏻‍♂️ Github Explorer 🔎
+</h4>
+<p align="center">
 
-In the project directory, you can run:
+  <img alt="language version" src="https://img.shields.io/badge/Node-v_12.16.2-339933?logo=node.js">
 
-### `yarn start`
+  <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitriber/github-explorer">
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/vitriber/github-explorer">
 
-### `yarn test`
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitriber/github-explorer?color=%2304D361">
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vitriber/github-explorer">
 
-### `yarn build`
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">Licença</a>
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📋 Projeto
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Aplicação desenvolvida para realizar pesquisas de repositórios utilizando a API do Github.<br><br><br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 💻 Como usar
+
+Para clonar e rodar essa aplicação você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que vem com [npm](http://npmjs.com)) instalado no seu computador. Na sua linha de comando:
+
+### Clone esse repositório
+```bash
+# Digite o comando abaixo para clonar o repositório
+$ git clone https://github.com/vitriber/github-explorer.git
+```
+
+### Iniciando o Projeto
+
+```bash
+# Vá para o repositório Back-end
+$ cd github-explorer
+
+# Instale as dependencias
+$ yarn
+
+# Para iniciar o servidor
+$ yarn start
+```
+
+## 👨‍💻 Tecnologias
+
+Essas são as tecnologias utilizadas nesse projeto
+
+💻- [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/),
+
+## 📝 License
+
+Este projeto está sob a licença MIT. Consulte o [LICENSE](LICENSE.md) para obter detalhes.
+
+---
+
+Feito por Vitor Ribeiro :wave: [Entre em contato comigo!](https://www.linkedin.com/in/vitor-ribeiro98/)
+:email: [yuriduartedev@gmail.com](mailto:vit.riber1@gmail.com) &nbsp;
+GitHub: [github.com/yuriduarte](https://github.com/vitriber) &nbsp;
