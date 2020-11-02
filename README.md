@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Github Explorer" title="#GithubExplorer" src=".github/logo.png" width="250px" />
+    <img alt="Github Explorer" title="#GithubExplorer" src="https://raw.githubusercontent.com/vitriber/github-explorer/98fba9f466c5bf35917052db685d17adcece4e4e/src/assets/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -78,5 +78,5 @@ Este projeto está sob a licença MIT. Consulte o [LICENSE](LICENSE.md) para obt
 ---
 
 Feito por Vitor Ribeiro :wave: [Entre em contato comigo!](https://www.linkedin.com/in/vitor-ribeiro98/)
-:email: [yuriduartedev@gmail.com](mailto:vit.riber1@gmail.com) &nbsp;
-GitHub: [github.com/yuriduarte](https://github.com/vitriber) &nbsp;
+:email: [vit.riber1@gmail.com](mailto:vit.riber1@gmail.com) &nbsp;
+GitHub: [github.com/vitriber](https://github.com/vitriber) &nbsp;
